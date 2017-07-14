@@ -1,0 +1,1 @@
+Simple React, Redux app displaying some weather charts
